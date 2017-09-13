@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">每日看报</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="zh_daily">日报</string>
+    <string name="unKnow">未知</string>
+
+    <string name="game">游戏</string>
+    <string name="movie">影视</string>
+    <string name="sports">体育</string>
+</resources>
